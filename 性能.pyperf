@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>3ced9675-37a7-4868-a5e9-ca2a0de80713</TargetProject>
+    <FriendlyName>PythonApplication1</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\shan\AppData\Local\Temp\性能_20201104.vsp</Filename>
+    </Report>
+    <Report>
+      <Filename>C:\Users\shan\AppData\Local\Temp\性能_20201104(1).vsp</Filename>
+    </Report>
+    <Report>
+      <Filename>C:\Users\shan\AppData\Local\Temp\性能_20201104(2).vsp</Filename>
+    </Report>
+  </Reports>
+  <UseVTune>false</UseVTune>
+</ProfilingTarget>
